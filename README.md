@@ -13,7 +13,7 @@
 
 
 # ✌🏻 ¡Hola!
-Soy Angel, recién graduado en Economía en la Facultad de Economía de la Universidad Nacional Autónoma de México. Me apasiona 
+Soy Angel, recién graduado en Economía en la Facultad de Economía de la Universidad Nacional Autónoma de México.
 
 
 
