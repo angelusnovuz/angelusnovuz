@@ -40,8 +40,5 @@ Soy Angel, recién graduado en Economía en la Facultad de Economía de la Unive
 
 ## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
-
-<a href="https://github.com/sfoteini">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelusnovuz&layout" alt="Foteini's GitHub Stats" />
-</a>
+<img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelusnovuz&layout"/>
 
